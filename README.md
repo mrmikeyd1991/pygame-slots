@@ -2,6 +2,10 @@
 my pyamge slots game
 im no professional but here is my slot machine.
 sprites were images form google so credits to whom made them.
+you need pygame-widgets to play this so
+
+pip install pygame-widgets
+
 
 
 this is a basic slot machine. payline is the middle and no other yet.
