@@ -9,4 +9,4 @@ there are sounds for multiple things including a win sound.
 every spin you play adds money to the min/maj/and jackpot prizes then they reset.
 its all randomized so good luck :D
 
-([http://url/to/img.png](https://github.com/mrmikeyd1991/pygame-slots/blob/main/preview.png?raw=true))
+![preview](https://github.com/user-attachments/assets/0fea1d71-fb6f-459d-b41f-2a51e0935c41)
